@@ -2,11 +2,11 @@
 La idea y el trabajo original es de Fazt
 
 <h1>Frameworks y NPM's</h1>
-Bootstrap 4
-ejs
-express
-morgan
-nodemon
+<p>Bootstrap 4</p>
+<p>ejs</p>
+<p>express</p>
+<p>morgan</p>
+<p>nodemon</p>
   
 <h1>Manera de uso</h1>
-npm run dev
+<p>npm run dev</p>
